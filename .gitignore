@@ -1,0 +1,24 @@
+# Environnement virtuel
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Variables d'environnement et secrets
+.env
+.env.*
+
+# Outils et éditeurs
+.DS_Store
+.vscode/
+.idea/
+
+# Tests et couverture
+.pytest_cache/
+.coverage
+htmlcov/
