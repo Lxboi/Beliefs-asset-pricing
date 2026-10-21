@@ -6,7 +6,11 @@ build-backend = "setuptools.build_meta"
 name = "beliefs-asset-pricing"
 version = "0.1.0"
 description = "Computational research on heterogeneous investor beliefs and asset pricing"
+<<<<<<< HEAD
 requires-python = ">=3.14,<3.15" 
+=======
+requires-python = ">=3.14,<3.15"
+>>>>>>> 03121187b977b562208d498a0f3fcabdc57fe4ac
 dependencies = [
     "numpy",
     "scipy",
