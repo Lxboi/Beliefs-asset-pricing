@@ -22,3 +22,5 @@ build/
 .pytest_cache/
 .coverage
 htmlcov/
+# Exclusion du dossier data
+data/
